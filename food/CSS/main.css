@@ -1,0 +1,67 @@
+body{
+	font-family: 'Oxygen', sans-serif;
+}
+
+img{
+	max-width: 100%;
+}
+
+a{
+	color: #D07338;
+}
+
+/*Clases*/
+.quitar-float{
+	float: none;
+}
+.espacio-arriba{
+	margin-top: 130px;
+}
+.shadows{
+	font-family: 'Shadows Into Light Two', cursive;
+}
+.grande{
+	font-size: 4.0em;
+}
+.subtitulo{
+	font-size: 2.8em;
+}
+.cafe{
+	color: #431B19;
+}
+.salmon{
+	color: #B69350;
+}
+.espacio-derecha{
+	margin-right: 3em;
+}
+.no-lista{
+	padding: 0px;
+	margin: 0px;
+}
+.no-lista li{
+	list-style-type: none;
+}
+.se-gris{
+	background-color: #eee;
+}
+.padding-largo{
+	padding: 5px 10px;
+}
+.inline-block{
+	display: inline-block;
+	float: none;
+	margin-right: -4px;
+}
+.vete-arriba{
+	vertical-align: top;
+}
+.mediano{
+	font-size: 1.3em;
+}
+.nav-font-size{
+	font-size: 1.5em;
+}
+.retraso{
+	animation-delay: .5s;
+}
